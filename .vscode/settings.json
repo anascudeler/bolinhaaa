@@ -1,17 +1,14 @@
 {
     "files.exclude": {
-      "APP/node_modules":true,
-      "APP/.expo":true,
+      "node_modules":true,
+      ".expo":true,
       "package-lock.json":true,
-      "APP/.github":true,
-      "APP/app.json":true,
-      "APP/index.js":true,
-      "APP/package-lock.json":true,
-      "APP/package.json":true,
-      "API/package-lock.json":true,
-      "API/package.json":true,
-      "API/node_modules":true,
+      ".github":true,
+      "app.json":true,
+      "index.js":true,
+      "package.json":false,
       "README.md":true,
       ".gitignore":true
-    }
+    },
+    "postman.settings.dotenv-detection-notification-visibility": false
   }
