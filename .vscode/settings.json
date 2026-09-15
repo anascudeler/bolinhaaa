@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+      "APP/node_modules":true,
+      "APP/.expo":true,
+      "package-lock.json":true,
+      "APP/.github":true,
+      "APP/app.json":true,
+      "APP/index.js":true,
+      "APP/package-lock.json":true,
+      "APP/package.json":true,
+      "API/package-lock.json":true,
+      "API/package.json":true,
+      "API/node_modules":true,
+      "README.md":true,
+      ".gitignore":true
+    }
+  }
